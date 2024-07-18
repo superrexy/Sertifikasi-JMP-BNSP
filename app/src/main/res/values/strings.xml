@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MUK DEMONTRASI JMP</string>
+    <string name="txt_splash_graduation">Graduation\n</string>
+    <string name="txt_digitalent_jmp">Digitalent JMP</string>
+    <string name="txt_login_menu">Login</string>
+    <string name="txt_placeholder_email">Email</string>
+    <string name="txt_placeholder_password">Password\n</string>
+    <string name="txt_selamat_datang">Selamat Datang</string>
+    <string name="txt_login_success">Login Sukses !</string>
+    <string name="txt_lihat_data">LIHAT DATA</string>
+    <string name="txt_input_data">INPUT DATA</string>
+    <string name="txt_information">INFORMASI</string>
+    <string name="txt_dashboard_menu">Dashboard</string>
+    <string name="txt_data_mahasiswa_menu">Data Mahasiswa</string>
+    <string name="txt_back">Kembali</string>
+    <string name="txt_detail_data_mahasiswa_menu">Detail Data</string>
+    <string name="txt_placeholder_nip">Nomor</string>
+    <string name="txt_placeholder_nama">Nama</string>
+    <string name="txt_placeholder_birth_date">Tanggal Lahir</string>
+    <string name="txt_placeholder_jenis_kelamin">Jenis Kelamin</string>
+    <string name="txt_placeholder_alamat">Alamat</string>
+    <string name="txt_tentang_menu">Tentang Aplikasi</string>
+    <string name="txt_information_description">Aplikasi Kampusku merupakan aplikasi yang digunakan untuk pendataan mahasiswa. User nantinya bisa menambahkan, ubah data, dan hapus data mahasiswa.</string>
+    <string name="txt_jenis_kelamin">Jenis Kelamin</string>
+    <string name="txt_male">Laki-laki</string>
+    <string name="txt_female">Perempuan</string>
+    <string name="txt_alamat">Alamat</string>
+    <string name="txt_simpan_data">Simpan Data</string>
+    <string name="txt_tanggal_lahir">Tanggal Lahir</string>
+    <string name="txt_nama">Nama</string>
+    <string name="txt_nomor">Nomor</string>
+</resources>

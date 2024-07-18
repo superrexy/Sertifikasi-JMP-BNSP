@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Informasi.Informasi">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/greenDark">
+
+        <ImageButton
+            android:id="@+id/backButton"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:background="@null"
+            android:contentDescription="@string/txt_back"
+            android:src="@drawable/ic_back" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="24dp"
+            android:text="@string/txt_tentang_menu"
+            android:textColor="@color/white"
+            android:textSize="24sp" />
+
+
+    </androidx.appcompat.widget.Toolbar>
+        <TextView
+            android:text="@string/txt_information_description"
+            android:layout_width="wrap_content"
+            android:justificationMode="inter_word"
+            android:padding="20dp"
+            android:textSize="18sp"
+            android:layout_height="wrap_content"
+            tools:targetApi="o" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
